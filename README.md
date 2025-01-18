@@ -74,17 +74,22 @@ This project is a simple Java-based application that fetches weather data from a
 This project follows a simple directory structure:
 
 forecast/
-│
-├── libs/                        (Contains external libraries like json-20230227.jar)
-│   └── json-20230227.jar         (JSON parsing library)
-│
-├── src/                         (Contains source code)
-│   └── WeatherApp.java           (Main Java source code file)
-│
-├── bin/                         (Contains compiled bytecode)
-│   └── WeatherApp.class          (Compiled Java bytecode)
-│
-└── README.md                    (Documentation for the project)
+
+
+
+
+
+        │
+        ├── libs/                        (Contains external libraries like json-20230227.jar)
+        │   └── json-20230227.jar         (JSON parsing library)
+        │
+        ├── src/                         (Contains source code)
+        │   └── WeatherApp.java           (Main Java source code file)
+        │
+        ├── bin/                         (Contains compiled bytecode)
+        │   └── WeatherApp.class          (Compiled Java bytecode)
+        │
+        └── README.md                    (Documentation for the project)
 
 
 
